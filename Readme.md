@@ -27,8 +27,8 @@ Cinema:
 - методи: 
   - addSeances (String day, Seance...seance) (додає набір сеансів в конкретний день), 
   - addSeance (Seance, String) (додає один сеанс в конкретний день), 
-        removeMovie(Movie) (повністю видаляє усі сеанси вказаного фільму з розкладу), 
-        removeSeance (Seance, String) (видаляє конкретний сеанс фільму в конкретний день, який задається параметром String).
+  - removeMovie(Movie) (повністю видаляє усі сеанси вказаного фільму з розкладу), 
+  - removeSeance (Seance, String) (видаляє конкретний сеанс фільму в конкретний день, який задається параметром String).
 
 Main class:
 - створення об'єкту Cinema;
