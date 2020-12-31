@@ -1,10 +1,10 @@
 ## Map-Comparators-HW-6
 
-### Даний проект має такі сутності: Days, Time, Movie, Seance, Schedule, Cinema.
+Даний проект має такі сутності: Days, Time, Movie, Seance, Schedule, Cinema.
 enum Days:
-    - прописати дні тижня; 
-###  
-###Time:
+- прописати дні тижня; 
+
+Time:
     - int min, int hour;
     - передбачити межі для цих полів (для min 0..59, для hour 0..23);
 ###Movie:
