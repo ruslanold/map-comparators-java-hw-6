@@ -25,8 +25,8 @@ Cinema:
 - TreeMap<Days, Schedule>, Time open, Time close;
 - врахувати час відкриття і закриття при формуванні сеансів!
 - методи: 
-        addSeances (String day, Seance...seance) (додає набір сеансів в конкретний день), 
-        addSeance (Seance, String) (додає один сеанс в конкретний день), 
+  - addSeances (String day, Seance...seance) (додає набір сеансів в конкретний день), 
+  - addSeance (Seance, String) (додає один сеанс в конкретний день), 
         removeMovie(Movie) (повністю видаляє усі сеанси вказаного фільму з розкладу), 
         removeSeance (Seance, String) (видаляє конкретний сеанс фільму в конкретний день, який задається параметром String).
 
